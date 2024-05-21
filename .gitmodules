@@ -1,3 +1,7 @@
+[submodule "module3-solution"]
+	path = module3-solution
+	url = https://github.com/sushman8/Problem.git
+
 [submodule "module4-solution"]
 	path = module4-solution
 	url = https://github.com/sushman8/Problem.git
